@@ -1,4 +1,4 @@
-package com.upao.restaurante.bookingrestaurante_Api;
+package com.upao.restaurante;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
